@@ -1,0 +1,1373 @@
+{
+  "user_1754661285628_5gmdw8bdz": {
+    "id": "user_1754661285628_5gmdw8bdz",
+    "personalInfo": {
+      "name": "sheref",
+      "email": "sh",
+      "age": 23,
+      "gender": null,
+      "height": "3223",
+      "weight": "23",
+      "avatar": "👩‍⚕️"
+    },
+    "healthMetrics": {
+      "bloodPressure": "32/32",
+      "heartRate": 32,
+      "bloodSugar": "32",
+      "cholesterol": "32",
+      "bmi": "0.0",
+      "sleepHours": 7,
+      "exerciseFreq": 3,
+      "waterIntake": 8,
+      "stressLevel": 3
+    },
+    "goals": [
+      "Lose weight",
+      "Build muscle",
+      "Improve sleep"
+    ],
+    "preferences": {
+      "notifications": true,
+      "reminderTime": "09:00",
+      "language": "en"
+    },
+    "registrationDate": "2025-08-08T13:54:45.628Z",
+    "lastLogin": "2025-08-08T13:54:58.278Z",
+    "healthHistory": [],
+    "achievements": [],
+    "gamificationData": {
+      "level": 1,
+      "xp": 0,
+      "streak": 0,
+      "badges": [
+        "welcome"
+      ],
+      "completedTasks": []
+    }
+  },
+  "user_1754661531341_untcg6tmg": {
+    "id": "user_1754661531341_untcg6tmg",
+    "personalInfo": {
+      "name": "Sheref",
+      "email": "sheref@sheref@sheref",
+      "age": 21,
+      "gender": null,
+      "height": "21",
+      "weight": "21",
+      "avatar": "👨‍⚕️"
+    },
+    "healthMetrics": {
+      "bloodPressure": "4/3",
+      "heartRate": 5,
+      "bloodSugar": null,
+      "cholesterol": null,
+      "bmi": "476.2",
+      "sleepHours": 7,
+      "exerciseFreq": 3,
+      "waterIntake": 8,
+      "stressLevel": 3
+    },
+    "goals": [
+      "Lose weight",
+      "Build muscle"
+    ],
+    "preferences": {
+      "notifications": true,
+      "reminderTime": "09:00",
+      "language": "en"
+    },
+    "registrationDate": "2025-08-08T13:58:51.341Z",
+    "lastLogin": "2025-08-08T13:59:13.040Z",
+    "healthHistory": [
+      {
+        "id": "1754661692913",
+        "timestamp": "2025-08-08T14:01:32.913Z",
+        "healthData": {
+          "faceImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/9b393c3f-556f-49e8-ad91-9b9928dea945",
+            "ts": 1754661638972
+          },
+          "eyeImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/e1a0cfc4-c960-4e1c-bd02-27301b18d4a8",
+            "ts": 1754661643405
+          },
+          "tongueImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/c0581afc-ac7e-4a61-8b93-0b155b6b1cf1",
+            "ts": 1754661647539
+          },
+          "skinImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/7fb232e8-6301-4c91-ac19-d22d4cc08bfc",
+            "ts": 1754661651454
+          },
+          "nailImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/acd38d62-6488-4189-b7b3-7c1c47ad1877",
+            "ts": 1754661655854
+          },
+          "voiceAudio": {}
+        },
+        "analysisResults": {
+          "face": {
+            "age": {
+              "value": 30,
+              "confidence": 0.85
+            },
+            "gender": {
+              "value": "male",
+              "confidence": 0.95
+            },
+            "skinConditions": [],
+            "facialFeatures": {
+              "symmetry": 0.9,
+              "skinTone": "medium",
+              "complexion": "clear"
+            },
+            "healthIndicators": {
+              "hydration": "good",
+              "stressLevel": "low",
+              "sleepQuality": "good"
+            }
+          },
+          "eyes": {
+            "eyeHealth": {
+              "overall": "unknown",
+              "redness": "unknown",
+              "dryness": "unknown",
+              "irritation": "unknown"
+            },
+            "visionIndicators": {
+              "pupilSize": "unknown",
+              "eyeAlignment": "unknown",
+              "blinkRate": "unknown"
+            },
+            "fatigueDetection": {
+              "level": "unknown",
+              "eyeStrain": "unknown",
+              "darkCircles": "unknown"
+            },
+            "recommendations": [
+              "Consult an eye care professional for a comprehensive assessment."
+            ]
+          },
+          "tongue": {
+            "tongueColor": {
+              "primary": "unknown",
+              "secondary": "unknown",
+              "interpretation": "unknown"
+            },
+            "coating": {
+              "thickness": "unknown",
+              "color": "unknown",
+              "distribution": "unknown",
+              "interpretation": "unknown"
+            },
+            "shape": {
+              "size": "unknown",
+              "edges": "unknown",
+              "cracks": "unknown",
+              "interpretation": "unknown"
+            },
+            "tcmIndicators": {
+              "qi": "unknown",
+              "blood": "unknown",
+              "yin": "unknown",
+              "yang": "unknown"
+            },
+            "healthPatterns": {
+              "digestive": "unknown",
+              "immune": "unknown",
+              "stress": "unknown"
+            }
+          },
+          "skin": {
+            "conditions": [],
+            "texture": {
+              "smoothness": "good",
+              "elasticity": "normal",
+              "oiliness": "balanced"
+            },
+            "pigmentation": {
+              "evenness": "good",
+              "spots": "none",
+              "tone": "string"
+            },
+            "hydration": {
+              "level": "adequate",
+              "moisture": "balanced",
+              "dryness": "none"
+            },
+            "sensitivity": {
+              "level": "low",
+              "redness": "none",
+              "irritation": "none"
+            },
+            "recommendations": [
+              "Maintain a balanced skincare routine",
+              "Stay hydrated",
+              "Use sunscreen regularly"
+            ]
+          },
+          "nails": {
+            "nailHealth": {
+              "strength": "unknown",
+              "growth": "unknown",
+              "color": "unknown",
+              "texture": "unknown"
+            },
+            "nutritionalIndicators": {
+              "protein": "unknown",
+              "vitamins": "unknown",
+              "minerals": "unknown",
+              "hydration": "unknown"
+            },
+            "growthPatterns": {
+              "rate": "unknown",
+              "ridges": "unknown",
+              "brittleness": "unknown"
+            },
+            "abnormalities": {
+              "spots": "unknown",
+              "discoloration": "unknown",
+              "deformities": "unknown"
+            },
+            "recommendations": [
+              "unknown"
+            ]
+          },
+          "audio": {
+            "breathingPatterns": {
+              "rate": "normal",
+              "rhythm": "regular",
+              "depth": "adequate",
+              "efficiency": "good"
+            },
+            "heartRate": {
+              "bpm": 72,
+              "rhythm": "regular",
+              "variability": "normal",
+              "confidence": 0.9
+            },
+            "voiceHealth": {
+              "clarity": "good",
+              "strength": "normal",
+              "fatigue": "none",
+              "quality": "clear"
+            },
+            "respiratoryIndicators": {
+              "lungFunction": "normal",
+              "airway": "clear",
+              "capacity": "adequate"
+            },
+            "recommendations": [
+              "Practice deep breathing exercises",
+              "Stay hydrated"
+            ]
+          }
+        },
+        "type": "health_check"
+      },
+      {
+        "id": "1754661693728",
+        "timestamp": "2025-08-08T14:01:33.728Z",
+        "healthData": {
+          "faceImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/9b393c3f-556f-49e8-ad91-9b9928dea945",
+            "ts": 1754661638972
+          },
+          "eyeImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/e1a0cfc4-c960-4e1c-bd02-27301b18d4a8",
+            "ts": 1754661643405
+          },
+          "tongueImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/c0581afc-ac7e-4a61-8b93-0b155b6b1cf1",
+            "ts": 1754661647539
+          },
+          "skinImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/7fb232e8-6301-4c91-ac19-d22d4cc08bfc",
+            "ts": 1754661651454
+          },
+          "nailImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/acd38d62-6488-4189-b7b3-7c1c47ad1877",
+            "ts": 1754661655854
+          },
+          "voiceAudio": {}
+        },
+        "analysisResults": {
+          "face": {
+            "age": {
+              "value": 30,
+              "confidence": 0.85
+            },
+            "gender": {
+              "value": "male",
+              "confidence": 0.95
+            },
+            "skinConditions": [
+              {
+                "condition": "none",
+                "severity": "mild",
+                "confidence": 0.9
+              }
+            ],
+            "facialFeatures": {
+              "symmetry": 0.85,
+              "skinTone": "medium",
+              "complexion": "smooth"
+            },
+            "healthIndicators": {
+              "hydration": "good",
+              "stressLevel": "low",
+              "sleepQuality": "good"
+            }
+          },
+          "eyes": {
+            "eyeHealth": {
+              "overall": "unknown",
+              "redness": "unknown",
+              "dryness": "unknown",
+              "irritation": "unknown"
+            },
+            "visionIndicators": {
+              "pupilSize": "unknown",
+              "eyeAlignment": "unknown",
+              "blinkRate": "unknown"
+            },
+            "fatigueDetection": {
+              "level": "unknown",
+              "eyeStrain": "unknown",
+              "darkCircles": "unknown"
+            },
+            "recommendations": [
+              "Consult an eye care professional for a comprehensive evaluation."
+            ]
+          },
+          "tongue": {
+            "tongueColor": {
+              "primary": "unknown",
+              "secondary": "unknown",
+              "interpretation": "unknown"
+            },
+            "coating": {
+              "thickness": "unknown",
+              "color": "unknown",
+              "distribution": "unknown",
+              "interpretation": "unknown"
+            },
+            "shape": {
+              "size": "unknown",
+              "edges": "unknown",
+              "cracks": "unknown",
+              "interpretation": "unknown"
+            },
+            "tcmIndicators": {
+              "qi": "unknown",
+              "blood": "unknown",
+              "yin": "unknown",
+              "yang": "unknown"
+            },
+            "healthPatterns": {
+              "digestive": "unknown",
+              "immune": "unknown",
+              "stress": "unknown"
+            }
+          },
+          "skin": {
+            "conditions": [],
+            "texture": {
+              "smoothness": "good",
+              "elasticity": "normal",
+              "oiliness": "balanced"
+            },
+            "pigmentation": {
+              "evenness": "good",
+              "spots": "none",
+              "tone": "string"
+            },
+            "hydration": {
+              "level": "adequate",
+              "moisture": "balanced",
+              "dryness": "none"
+            },
+            "sensitivity": {
+              "level": "low",
+              "redness": "none",
+              "irritation": "none"
+            },
+            "recommendations": [
+              "Maintain a balanced skincare routine",
+              "Stay hydrated",
+              "Use sunscreen regularly"
+            ]
+          },
+          "nails": {
+            "nailHealth": {
+              "strength": "unknown",
+              "growth": "unknown",
+              "color": "unknown",
+              "texture": "unknown"
+            },
+            "nutritionalIndicators": {
+              "protein": "unknown",
+              "vitamins": "unknown",
+              "minerals": "unknown",
+              "hydration": "unknown"
+            },
+            "growthPatterns": {
+              "rate": "unknown",
+              "ridges": "unknown",
+              "brittleness": "unknown"
+            },
+            "abnormalities": {
+              "spots": "unknown",
+              "discoloration": "unknown",
+              "deformities": "unknown"
+            },
+            "recommendations": [
+              "unknown"
+            ]
+          },
+          "audio": {
+            "breathingPatterns": {
+              "rate": "normal",
+              "rhythm": "regular",
+              "depth": "adequate",
+              "efficiency": "good"
+            },
+            "heartRate": {
+              "bpm": 72,
+              "rhythm": "regular",
+              "variability": "normal",
+              "confidence": 0.9
+            },
+            "voiceHealth": {
+              "clarity": "good",
+              "strength": "normal",
+              "fatigue": "none",
+              "quality": "clear"
+            },
+            "respiratoryIndicators": {
+              "lungFunction": "normal",
+              "airway": "clear",
+              "capacity": "adequate"
+            },
+            "recommendations": [
+              "Practice deep breathing exercises",
+              "Stay hydrated"
+            ]
+          }
+        },
+        "type": "health_check"
+      },
+      {
+        "id": "1754661717263",
+        "timestamp": "2025-08-08T14:01:57.263Z",
+        "healthData": {
+          "faceImage": null,
+          "eyeImage": null,
+          "tongueImage": null,
+          "skinImage": null,
+          "nailImage": null,
+          "voiceAudio": null
+        },
+        "analysisResults": {},
+        "type": "health_check"
+      },
+      {
+        "id": "1754661717298",
+        "timestamp": "2025-08-08T14:01:57.298Z",
+        "healthData": {
+          "faceImage": null,
+          "eyeImage": null,
+          "tongueImage": null,
+          "skinImage": null,
+          "nailImage": null,
+          "voiceAudio": null
+        },
+        "analysisResults": {},
+        "type": "health_check"
+      },
+      {
+        "id": "1754661775692",
+        "timestamp": "2025-08-08T14:02:55.692Z",
+        "healthData": {
+          "faceImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/f68fab82-cb8e-43b4-a1b4-b0220e7587a4",
+            "ts": 1754661728701
+          },
+          "eyeImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/59f04ece-c33e-4833-8991-f5abf3f82afb",
+            "ts": 1754661734323
+          },
+          "tongueImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/e5c012e4-6596-4080-bea2-e445e2b88866",
+            "ts": 1754661738194
+          },
+          "skinImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/8c5989ae-34af-490b-a0f9-fcf90fb87b3b",
+            "ts": 1754661742371
+          },
+          "nailImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/f3a0a71b-3e39-480c-8038-d3f373ddd806",
+            "ts": 1754661746552
+          },
+          "voiceAudio": {}
+        },
+        "analysisResults": {
+          "face": {
+            "age": {
+              "value": 30,
+              "confidence": 0.85
+            },
+            "gender": {
+              "value": "male",
+              "confidence": 0.95
+            },
+            "skinConditions": [
+              {
+                "condition": "none",
+                "severity": "mild",
+                "confidence": 0.9
+              }
+            ],
+            "facialFeatures": {
+              "symmetry": 0.9,
+              "skinTone": "medium",
+              "complexion": "clear"
+            },
+            "healthIndicators": {
+              "hydration": "good",
+              "stressLevel": "low",
+              "sleepQuality": "good"
+            }
+          },
+          "eyes": {
+            "eyeHealth": {
+              "overall": "unknown",
+              "redness": "unknown",
+              "dryness": "unknown",
+              "irritation": "unknown"
+            },
+            "visionIndicators": {
+              "pupilSize": "unknown",
+              "eyeAlignment": "unknown",
+              "blinkRate": "unknown"
+            },
+            "fatigueDetection": {
+              "level": "unknown",
+              "eyeStrain": "unknown",
+              "darkCircles": "unknown"
+            },
+            "recommendations": [
+              "Consult an eye care professional for a comprehensive examination."
+            ]
+          },
+          "tongue": {
+            "tongueColor": {
+              "primary": "unknown",
+              "secondary": "unknown",
+              "interpretation": "unknown"
+            },
+            "coating": {
+              "thickness": "unknown",
+              "color": "unknown",
+              "distribution": "unknown",
+              "interpretation": "unknown"
+            },
+            "shape": {
+              "size": "unknown",
+              "edges": "unknown",
+              "cracks": "unknown",
+              "interpretation": "unknown"
+            },
+            "tcmIndicators": {
+              "qi": "unknown",
+              "blood": "unknown",
+              "yin": "unknown",
+              "yang": "unknown"
+            },
+            "healthPatterns": {
+              "digestive": "unknown",
+              "immune": "unknown",
+              "stress": "unknown"
+            }
+          },
+          "skin": {
+            "conditions": [],
+            "texture": {
+              "smoothness": "good",
+              "elasticity": "normal",
+              "oiliness": "balanced"
+            },
+            "pigmentation": {
+              "evenness": "good",
+              "spots": "none",
+              "tone": "string"
+            },
+            "hydration": {
+              "level": "adequate",
+              "moisture": "balanced",
+              "dryness": "none"
+            },
+            "sensitivity": {
+              "level": "low",
+              "redness": "none",
+              "irritation": "none"
+            },
+            "recommendations": [
+              "Maintain a balanced skincare routine",
+              "Stay hydrated",
+              "Use sunscreen regularly"
+            ]
+          },
+          "nails": {
+            "nailHealth": {
+              "strength": "unknown",
+              "growth": "unknown",
+              "color": "unknown",
+              "texture": "unknown"
+            },
+            "nutritionalIndicators": {
+              "protein": "unknown",
+              "vitamins": "unknown",
+              "minerals": "unknown",
+              "hydration": "unknown"
+            },
+            "growthPatterns": {
+              "rate": "unknown",
+              "ridges": "unknown",
+              "brittleness": "unknown"
+            },
+            "abnormalities": {
+              "spots": "unknown",
+              "discoloration": "unknown",
+              "deformities": "unknown"
+            },
+            "recommendations": [
+              "unknown"
+            ]
+          },
+          "audio": {
+            "breathingPatterns": {
+              "rate": "normal",
+              "rhythm": "regular",
+              "depth": "adequate",
+              "efficiency": "good"
+            },
+            "heartRate": {
+              "bpm": 72,
+              "rhythm": "regular",
+              "variability": "normal",
+              "confidence": 0.9
+            },
+            "voiceHealth": {
+              "clarity": "good",
+              "strength": "normal",
+              "fatigue": "none",
+              "quality": "clear"
+            },
+            "respiratoryIndicators": {
+              "lungFunction": "normal",
+              "airway": "clear",
+              "capacity": "adequate"
+            },
+            "recommendations": [
+              "Practice deep breathing exercises",
+              "Stay hydrated"
+            ]
+          }
+        },
+        "type": "health_check"
+      },
+      {
+        "id": "1754661783551",
+        "timestamp": "2025-08-08T14:03:03.551Z",
+        "healthData": {
+          "faceImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/f68fab82-cb8e-43b4-a1b4-b0220e7587a4",
+            "ts": 1754661728701
+          },
+          "eyeImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/59f04ece-c33e-4833-8991-f5abf3f82afb",
+            "ts": 1754661734323
+          },
+          "tongueImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/e5c012e4-6596-4080-bea2-e445e2b88866",
+            "ts": 1754661738194
+          },
+          "skinImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/8c5989ae-34af-490b-a0f9-fcf90fb87b3b",
+            "ts": 1754661742371
+          },
+          "nailImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/f3a0a71b-3e39-480c-8038-d3f373ddd806",
+            "ts": 1754661746552
+          },
+          "voiceAudio": {}
+        },
+        "analysisResults": {
+          "face": {
+            "age": {
+              "value": 30,
+              "confidence": 0.85
+            },
+            "gender": {
+              "value": "male",
+              "confidence": 0.95
+            },
+            "skinConditions": [],
+            "facialFeatures": {
+              "symmetry": 0.9,
+              "skinTone": "medium",
+              "complexion": "clear"
+            },
+            "healthIndicators": {
+              "hydration": "good",
+              "stressLevel": "low",
+              "sleepQuality": "good"
+            }
+          },
+          "eyes": {
+            "eyeHealth": {
+              "overall": "unknown",
+              "redness": "none",
+              "dryness": "none",
+              "irritation": "none"
+            },
+            "visionIndicators": {
+              "pupilSize": "unknown",
+              "eyeAlignment": "unknown",
+              "blinkRate": "unknown"
+            },
+            "fatigueDetection": {
+              "level": "unknown",
+              "eyeStrain": "unknown",
+              "darkCircles": "unknown"
+            },
+            "recommendations": [
+              "Consult an eye care professional for a comprehensive examination."
+            ]
+          },
+          "tongue": {
+            "tongueColor": {
+              "primary": "unknown",
+              "secondary": "unknown",
+              "interpretation": "unknown"
+            },
+            "coating": {
+              "thickness": "unknown",
+              "color": "unknown",
+              "distribution": "unknown",
+              "interpretation": "unknown"
+            },
+            "shape": {
+              "size": "unknown",
+              "edges": "unknown",
+              "cracks": "unknown",
+              "interpretation": "unknown"
+            },
+            "tcmIndicators": {
+              "qi": "unknown",
+              "blood": "unknown",
+              "yin": "unknown",
+              "yang": "unknown"
+            },
+            "healthPatterns": {
+              "digestive": "unknown",
+              "immune": "unknown",
+              "stress": "unknown"
+            }
+          },
+          "skin": {
+            "conditions": [],
+            "texture": {
+              "smoothness": "good",
+              "elasticity": "normal",
+              "oiliness": "balanced"
+            },
+            "pigmentation": {
+              "evenness": "good",
+              "spots": "none",
+              "tone": "even"
+            },
+            "hydration": {
+              "level": "adequate",
+              "moisture": "balanced",
+              "dryness": "none"
+            },
+            "sensitivity": {
+              "level": "low",
+              "redness": "none",
+              "irritation": "none"
+            },
+            "recommendations": [
+              "Maintain a balanced skincare routine",
+              "Stay hydrated",
+              "Use sunscreen regularly"
+            ]
+          },
+          "nails": {
+            "nailHealth": {
+              "strength": "unknown",
+              "growth": "unknown",
+              "color": "unknown",
+              "texture": "unknown"
+            },
+            "nutritionalIndicators": {
+              "protein": "unknown",
+              "vitamins": "unknown",
+              "minerals": "unknown",
+              "hydration": "unknown"
+            },
+            "growthPatterns": {
+              "rate": "unknown",
+              "ridges": "unknown",
+              "brittleness": "unknown"
+            },
+            "abnormalities": {
+              "spots": "unknown",
+              "discoloration": "unknown",
+              "deformities": "unknown"
+            },
+            "recommendations": [
+              "unknown"
+            ]
+          },
+          "audio": {
+            "breathingPatterns": {
+              "rate": "normal",
+              "rhythm": "regular",
+              "depth": "adequate",
+              "efficiency": "good"
+            },
+            "heartRate": {
+              "bpm": 72,
+              "rhythm": "regular",
+              "variability": "normal",
+              "confidence": 0.9
+            },
+            "voiceHealth": {
+              "clarity": "good",
+              "strength": "normal",
+              "fatigue": "none",
+              "quality": "clear"
+            },
+            "respiratoryIndicators": {
+              "lungFunction": "normal",
+              "airway": "clear",
+              "capacity": "adequate"
+            },
+            "recommendations": [
+              "Practice deep breathing exercises",
+              "Stay hydrated"
+            ]
+          }
+        },
+        "type": "health_check"
+      },
+      {
+        "id": "1754661988850",
+        "timestamp": "2025-08-08T14:06:28.850Z",
+        "healthData": {
+          "faceImage": null,
+          "eyeImage": null,
+          "tongueImage": null,
+          "skinImage": null,
+          "nailImage": null,
+          "voiceAudio": null
+        },
+        "analysisResults": {},
+        "type": "health_check"
+      },
+      {
+        "id": "1754661988889",
+        "timestamp": "2025-08-08T14:06:28.889Z",
+        "healthData": {
+          "faceImage": null,
+          "eyeImage": null,
+          "tongueImage": null,
+          "skinImage": null,
+          "nailImage": null,
+          "voiceAudio": null
+        },
+        "analysisResults": {},
+        "type": "health_check"
+      },
+      {
+        "id": "1754662065162",
+        "timestamp": "2025-08-08T14:07:45.162Z",
+        "healthData": {
+          "faceImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/bd1189ef-fa48-4bf6-94d1-706736cb2494",
+            "ts": 1754662014526
+          },
+          "eyeImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/4dfc28fc-d8d4-4dd5-b5f0-31868253f75c",
+            "ts": 1754662019445
+          },
+          "tongueImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/dcdea3aa-d5f5-40b5-b75e-c1667e4b88ef",
+            "ts": 1754662024042
+          },
+          "skinImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/f05690df-c0b3-448d-9004-f34c66afd562",
+            "ts": 1754662032487
+          },
+          "nailImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/109478a1-04e6-4a80-8ea9-a43ecbdc2483",
+            "ts": 1754662036933
+          },
+          "voiceAudio": {}
+        },
+        "analysisResults": {
+          "face": {
+            "age": {
+              "value": 30,
+              "confidence": 0.85
+            },
+            "gender": {
+              "value": "male",
+              "confidence": 0.95
+            },
+            "skinConditions": [],
+            "facialFeatures": {
+              "symmetry": 0.9,
+              "skinTone": "medium",
+              "complexion": "clear"
+            },
+            "healthIndicators": {
+              "hydration": "good",
+              "stressLevel": "low",
+              "sleepQuality": "good"
+            }
+          },
+          "eyes": {
+            "eyeHealth": {
+              "overall": "unknown",
+              "redness": "none",
+              "dryness": "none",
+              "irritation": "none"
+            },
+            "visionIndicators": {
+              "pupilSize": "unknown",
+              "eyeAlignment": "unknown",
+              "blinkRate": "unknown"
+            },
+            "fatigueDetection": {
+              "level": "unknown",
+              "eyeStrain": "unknown",
+              "darkCircles": "unknown"
+            },
+            "recommendations": [
+              "Consult an eye care professional for a comprehensive evaluation."
+            ]
+          },
+          "tongue": {
+            "tongueColor": {
+              "primary": "unknown",
+              "secondary": "unknown",
+              "interpretation": "unknown"
+            },
+            "coating": {
+              "thickness": "unknown",
+              "color": "unknown",
+              "distribution": "unknown",
+              "interpretation": "unknown"
+            },
+            "shape": {
+              "size": "unknown",
+              "edges": "unknown",
+              "cracks": "unknown",
+              "interpretation": "unknown"
+            },
+            "tcmIndicators": {
+              "qi": "unknown",
+              "blood": "unknown",
+              "yin": "unknown",
+              "yang": "unknown"
+            },
+            "healthPatterns": {
+              "digestive": "unknown",
+              "immune": "unknown",
+              "stress": "unknown"
+            }
+          },
+          "skin": {
+            "conditions": [],
+            "texture": {
+              "smoothness": "good",
+              "elasticity": "normal",
+              "oiliness": "balanced"
+            },
+            "pigmentation": {
+              "evenness": "good",
+              "spots": "none",
+              "tone": "string"
+            },
+            "hydration": {
+              "level": "adequate",
+              "moisture": "balanced",
+              "dryness": "none"
+            },
+            "sensitivity": {
+              "level": "low",
+              "redness": "none",
+              "irritation": "none"
+            },
+            "recommendations": [
+              "Maintain a balanced skincare routine",
+              "Stay hydrated",
+              "Use sunscreen regularly"
+            ]
+          },
+          "nails": {
+            "nailHealth": {
+              "strength": "unknown",
+              "growth": "unknown",
+              "color": "unknown",
+              "texture": "unknown"
+            },
+            "nutritionalIndicators": {
+              "protein": "unknown",
+              "vitamins": "unknown",
+              "minerals": "unknown",
+              "hydration": "unknown"
+            },
+            "growthPatterns": {
+              "rate": "unknown",
+              "ridges": "unknown",
+              "brittleness": "unknown"
+            },
+            "abnormalities": {
+              "spots": "unknown",
+              "discoloration": "unknown",
+              "deformities": "unknown"
+            },
+            "recommendations": [
+              "unknown"
+            ]
+          },
+          "audio": {
+            "breathingPatterns": {
+              "rate": "normal",
+              "rhythm": "regular",
+              "depth": "adequate",
+              "efficiency": "good"
+            },
+            "heartRate": {
+              "bpm": 72,
+              "rhythm": "regular",
+              "variability": "normal",
+              "confidence": 0.9
+            },
+            "voiceHealth": {
+              "clarity": "good",
+              "strength": "normal",
+              "fatigue": "none",
+              "quality": "clear"
+            },
+            "respiratoryIndicators": {
+              "lungFunction": "normal",
+              "airway": "clear",
+              "capacity": "adequate"
+            },
+            "recommendations": [
+              "Practice deep breathing exercises",
+              "Stay hydrated"
+            ]
+          }
+        },
+        "type": "health_check"
+      },
+      {
+        "id": "1754662069185",
+        "timestamp": "2025-08-08T14:07:49.185Z",
+        "healthData": {
+          "faceImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/bd1189ef-fa48-4bf6-94d1-706736cb2494",
+            "ts": 1754662014526
+          },
+          "eyeImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/4dfc28fc-d8d4-4dd5-b5f0-31868253f75c",
+            "ts": 1754662019445
+          },
+          "tongueImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/dcdea3aa-d5f5-40b5-b75e-c1667e4b88ef",
+            "ts": 1754662024042
+          },
+          "skinImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/f05690df-c0b3-448d-9004-f34c66afd562",
+            "ts": 1754662032487
+          },
+          "nailImage": {
+            "file": {},
+            "url": "blob:http://localhost:5173/109478a1-04e6-4a80-8ea9-a43ecbdc2483",
+            "ts": 1754662036933
+          },
+          "voiceAudio": {}
+        },
+        "analysisResults": {
+          "face": {
+            "age": {
+              "value": 30,
+              "confidence": 0.85
+            },
+            "gender": {
+              "value": "male",
+              "confidence": 0.95
+            },
+            "skinConditions": [
+              {
+                "condition": "none",
+                "severity": "mild",
+                "confidence": 0.9
+              }
+            ],
+            "facialFeatures": {
+              "symmetry": 0.8,
+              "skinTone": "medium",
+              "complexion": "clear"
+            },
+            "healthIndicators": {
+              "hydration": "good",
+              "stressLevel": "low",
+              "sleepQuality": "good"
+            }
+          },
+          "eyes": {
+            "eyeHealth": {
+              "overall": "unknown",
+              "redness": "none",
+              "dryness": "none",
+              "irritation": "none"
+            },
+            "visionIndicators": {
+              "pupilSize": "unknown",
+              "eyeAlignment": "unknown",
+              "blinkRate": "unknown"
+            },
+            "fatigueDetection": {
+              "level": "unknown",
+              "eyeStrain": "unknown",
+              "darkCircles": "unknown"
+            },
+            "recommendations": [
+              "consult an eye care professional"
+            ]
+          },
+          "tongue": {
+            "tongueColor": {
+              "primary": "unknown",
+              "secondary": "unknown",
+              "interpretation": "unknown"
+            },
+            "coating": {
+              "thickness": "unknown",
+              "color": "unknown",
+              "distribution": "unknown",
+              "interpretation": "unknown"
+            },
+            "shape": {
+              "size": "unknown",
+              "edges": "unknown",
+              "cracks": "unknown",
+              "interpretation": "unknown"
+            },
+            "tcmIndicators": {
+              "qi": "unknown",
+              "blood": "unknown",
+              "yin": "unknown",
+              "yang": "unknown"
+            },
+            "healthPatterns": {
+              "digestive": "unknown",
+              "immune": "unknown",
+              "stress": "unknown"
+            }
+          },
+          "skin": {
+            "conditions": [],
+            "texture": {
+              "smoothness": "good",
+              "elasticity": "normal",
+              "oiliness": "balanced"
+            },
+            "pigmentation": {
+              "evenness": "good",
+              "spots": "none",
+              "tone": "string"
+            },
+            "hydration": {
+              "level": "adequate",
+              "moisture": "balanced",
+              "dryness": "none"
+            },
+            "sensitivity": {
+              "level": "low",
+              "redness": "none",
+              "irritation": "none"
+            },
+            "recommendations": [
+              "Maintain a balanced skincare routine",
+              "Stay hydrated",
+              "Use sunscreen regularly"
+            ]
+          },
+          "nails": {
+            "nailHealth": {
+              "strength": "unknown",
+              "growth": "unknown",
+              "color": "unknown",
+              "texture": "unknown"
+            },
+            "nutritionalIndicators": {
+              "protein": "unknown",
+              "vitamins": "unknown",
+              "minerals": "unknown",
+              "hydration": "unknown"
+            },
+            "growthPatterns": {
+              "rate": "unknown",
+              "ridges": "unknown",
+              "brittleness": "unknown"
+            },
+            "abnormalities": {
+              "spots": "unknown",
+              "discoloration": "unknown",
+              "deformities": "unknown"
+            },
+            "recommendations": [
+              "unknown"
+            ]
+          },
+          "audio": {
+            "breathingPatterns": {
+              "rate": "normal",
+              "rhythm": "regular",
+              "depth": "adequate",
+              "efficiency": "good"
+            },
+            "heartRate": {
+              "bpm": 72,
+              "rhythm": "regular",
+              "variability": "normal",
+              "confidence": 0.9
+            },
+            "voiceHealth": {
+              "clarity": "good",
+              "strength": "normal",
+              "fatigue": "none",
+              "quality": "clear"
+            },
+            "respiratoryIndicators": {
+              "lungFunction": "normal",
+              "airway": "clear",
+              "capacity": "adequate"
+            },
+            "recommendations": [
+              "Practice deep breathing exercises",
+              "Stay hydrated"
+            ]
+          }
+        },
+        "type": "health_check"
+      }
+    ],
+    "achievements": [
+      {
+        "type": "level_up",
+        "level": 2,
+        "timestamp": "2025-08-08T14:07:49.185Z",
+        "title": "Level 2 Achieved! 🎯",
+        "description": "You've reached level 2 on your health journey!"
+      }
+    ],
+    "gamificationData": {
+      "level": 2,
+      "xp": 100,
+      "streak": 0,
+      "badges": [
+        "welcome"
+      ],
+      "completedTasks": [
+        {
+          "type": "health_check",
+          "timestamp": "2025-08-08T14:01:32.913Z",
+          "xp": 10
+        },
+        {
+          "type": "health_check",
+          "timestamp": "2025-08-08T14:01:33.728Z",
+          "xp": 10
+        },
+        {
+          "type": "health_check",
+          "timestamp": "2025-08-08T14:01:57.263Z",
+          "xp": 10
+        },
+        {
+          "type": "health_check",
+          "timestamp": "2025-08-08T14:01:57.298Z",
+          "xp": 10
+        },
+        {
+          "type": "health_check",
+          "timestamp": "2025-08-08T14:02:55.692Z",
+          "xp": 10
+        },
+        {
+          "type": "health_check",
+          "timestamp": "2025-08-08T14:03:03.551Z",
+          "xp": 10
+        },
+        {
+          "type": "health_check",
+          "timestamp": "2025-08-08T14:06:28.850Z",
+          "xp": 10
+        },
+        {
+          "type": "health_check",
+          "timestamp": "2025-08-08T14:06:28.889Z",
+          "xp": 10
+        },
+        {
+          "type": "health_check",
+          "timestamp": "2025-08-08T14:07:45.162Z",
+          "xp": 10
+        },
+        {
+          "type": "health_check",
+          "timestamp": "2025-08-08T14:07:49.185Z",
+          "xp": 10
+        }
+      ]
+    }
+  }
+}
